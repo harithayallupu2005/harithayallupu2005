@@ -10,7 +10,7 @@ Hey there! I'm Haritha Yallupu, a dedicated software developer and AI enthusiast
 
 💬 Ask Me About: Whether it's about machine learning methodologies, Python scripting, JavaScript wizardry, or anything related to software development, feel free to shoot me your questions. I'm here to help!
 
-📫 Get in Touch: Want to connect or discuss a project? Drop me a line at harithayallupu@example.com. I'm always open to new opportunities and engaging conversations.
+📫 Get in Touch: Want to connect or discuss a project? Drop me a line at harithayallupu2005@gmail.com. I'm always open to new opportunities and engaging conversations.
 
 😄 Pronouns: She/Her.
 
