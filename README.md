@@ -19,7 +19,7 @@
 
 ### 😄 **Pronouns:** She/Her.
 
-###⚡ **Fun Fact:**
+### ⚡ **Fun Fact:**
 **When I'm not immersed in the world of code, you can often find me lost in the melodies of the piano. Music is not just a hobby for me; it's a soulful escape that rejuvenates me after a long day of coding.**
 
 **Let's innovate, collaborate, and create magic together in the world of technology! 🚀✨**
