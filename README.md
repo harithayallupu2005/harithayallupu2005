@@ -4,7 +4,7 @@ Hey there! I'm Haritha Yallupu, a dedicated software developer and AI enthusiast
 
 🔭 Current Focus: I'm currently immersed in sharpening my skills in machine learning and web development. Whether it's crafting algorithms or designing user-friendly interfaces, I love diving deep into both realms.
 
-🌱 Learning Journey: I'm on a journey of discovery, delving into advanced topics in deep learning and cloud computing. Constantly pushing the boundaries of my knowledge keeps me engaged and excited about the endless possibilities in the tech world.
+🌱 **Learning Journey:** I'm on a journey of discovery, delving into advanced topics in deep learning and cloud computing. Constantly pushing the boundaries of my knowledge keeps me engaged and excited about the endless possibilities in the tech world.
 
 👯 Open to Collaboration: I'm always eager to collaborate on open-source projects, especially those revolving around AI, web development, and data science. Working with like-minded individuals to create innovative solutions is where I thrive.
 
